@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.amazon.fr/stores/page/53ED8110-AD9A-422B-9770-49A60F1AC711/?_encoding=UTF8&store_ref=SB_A0790603XASN6K2TC4F6&pd_rd_plhdr=t&aaxitk=08ffd850c2672bf34bccb47a9da28bff&hsa_cr_id=3394141600502&lp_asins=B01F2HWLAC%2CB07DHB73M3&lp_query=gourde%20sport&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=9clxK&pf_rd_p=f67c68b0-d1c8-4186-9fdf-53964bd23808&pd_rd_wg=CQ2dm&pf_rd_r=NCTE94VV1EDM4W0WBMBP&pd_rd_r=f42d74a9-06ac-40eb-a049-881e7c1e0862"
+}
